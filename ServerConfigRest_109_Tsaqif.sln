@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerConfigRest_109_Tsaqif", "ServerConfigRest_109_Tsaqif\ServerConfigRest_109_Tsaqif.csproj", "{C3DD9571-1052-4B92-A969-898D8C028669}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3DD9571-1052-4B92-A969-898D8C028669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3DD9571-1052-4B92-A969-898D8C028669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3DD9571-1052-4B92-A969-898D8C028669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3DD9571-1052-4B92-A969-898D8C028669}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B82FE18D-0AAC-4D2F-9BEA-E3DD346CC79B}
+	EndGlobalSection
+EndGlobal
